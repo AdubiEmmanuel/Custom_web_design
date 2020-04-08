@@ -8,7 +8,7 @@ html,body{
 }
 
 .bg-card-0{
-  background-image: url(3.jpg);
+  background-image: url(../imgs/3.jpg);
   background-size: cover;
   height:100% !important;
   padding-bottom: 10%;
@@ -16,7 +16,7 @@ html,body{
 }
 
 .bg-card-1{
-  background-image: url(1.jpg);
+  background-image: url(../imgs/1.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   padding:10% 10%;
@@ -50,7 +50,7 @@ html,body{
 }
 
 .bg-card-a{
-  background-image: url(8.jpg);
+  background-image: url(../imgs/8.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   padding:10% 10%;
@@ -60,7 +60,7 @@ html,body{
 }
 
 .bg-card-b{
-  background-image: url(9.jpg);
+  background-image: url(../imgs/9.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   padding:10% 10%;
@@ -70,7 +70,7 @@ html,body{
 }
 
 .bg-card-c{
-  background-image: url(10.jpg);
+  background-image: url(../imgs/10.jpg);
   background-repeat: no-repeat;
   background-size:cover;
   padding:10% 10%;
